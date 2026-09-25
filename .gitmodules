@@ -1,3 +1,0 @@
-[submodule "ConfigServer/src/main/resources/myconfig"]
-	path = ConfigServer/src/main/resources/myconfig
-	url = https://github.com/Hadil100/Projet-Spring-Angular/myconfig

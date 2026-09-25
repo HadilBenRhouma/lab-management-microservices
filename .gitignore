@@ -1,0 +1,11 @@
+# IDE
+.metadata/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build
+target/
